@@ -1,5 +1,5 @@
-# Aplicação do Modelo Multilíngue XLM-RoBERTa na Classificação de Discursos Políticos
-Repositório destinado à aplicação do modelo XLM-RoBERTa na geração de embeddings de discursos de membros da Câmara dos Deputados
+# Aplicação do Modelo Multilíngue XLM-RoBERTa na Análise e Identificação de Grupos de Similaridade de Discursos Políticos
+Repositório destinado à aplicação do modelo XLM-RoBERTa na geração de embeddings e análise de similaridade entre discursos de membros da Câmara dos Deputados do Brasil.
 
 ## Identificação
 
@@ -11,7 +11,7 @@ Repositório destinado à aplicação do modelo XLM-RoBERTa na geração de embe
 
 Para executar este projeto localmente, é recomendável a criação de um ambiente virtual em Python. Supondo que a ambientação é feita em um sistema Linux, basta executar os seguintes comandos:
 
-> Caso o Sistema Operacional não seja Linux, verifique a [documentação oficial do Python](https://docs.python.org/3/library/venv.html) para compreender as particularidades deste processo no seu SO.
+> Caso o Sistema Operacional (SO) não seja Linux, verifique a [documentação oficial do Python](https://docs.python.org/3/library/venv.html) para compreender as particularidades deste processo em seu SO.
 
 ### Criação do Ambiente Virtual
 
